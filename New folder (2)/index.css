@@ -1,0 +1,11 @@
+body{
+    font-family:sans-serif;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    
+    padding: 10px;
+}
+    
